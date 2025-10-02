@@ -1,0 +1,6 @@
+exclude:
+  - Dockerfile
+  - .dockerignore
+  - docker-compose.yml
+  - "*.md"
+  - README.md

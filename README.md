@@ -106,5 +106,3 @@ This project includes USIU-specific context such as:
 
 
 # USIU-First-Year-Companion
-# USIU-First-Year-Companion
-# USIU-First-Year-Companion
